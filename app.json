@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "aldikurniawan_Apptest",
+    "slug": "aldikurniawan_Apptest",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "name": "aldikurniawan_Apptest"
+}
